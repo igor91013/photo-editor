@@ -1,0 +1,3 @@
+﻿  Layer.cpp
+C:\Users\MyPc\Desktop\projekti\PhotoEditor\c++ part\Program\BasicOperations.h(256,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Program.vcxproj -> C:\Users\MyPc\Desktop\projekti\PhotoEditor\c++ part\Debug\Program.exe

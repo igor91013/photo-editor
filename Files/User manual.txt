@@ -1,0 +1,8 @@
+2 standard formats:
+.bmp
+.pam
+
+
+2 new formats:
+.mp (my project) -> project file
+.myf (my format) -> picture file
